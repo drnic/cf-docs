@@ -16,3 +16,4 @@ BOSH was originally developed in the context of the Cloud Foundry Application Pl
   * [BOSH CLI](reference/bosh-cli.html)
 * Troubleshooting
   * [How to locate and watch logs on Job instances](troubleshooting/job-logs.html)
+  * [Inspecting and understanding the internal DNS](troubleshooting/internal-dns.html)
